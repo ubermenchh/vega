@@ -1,0 +1,6 @@
+.chisel/
+.venv/
+.ruff_cache/
+.ropeproject/
+models/
+gpt2
